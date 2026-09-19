@@ -20,7 +20,7 @@ You are free to use any design or color scheme, just make sure it is readable.
 Submission:
 1.Use PDF as the file format for your cheat sheet. 
 2.Upload it to your GitHub repository
-3.Submit the link here: 
+3.Submit the link here: https://github.com/VIncent-bugging/202300580.github.io/blob/main/Abiad%20ITEC%20111%20Activity%202.pdf
 
 Reminders:
 Please put a “Reference” section in the cheat sheet for the materials you cited. 
